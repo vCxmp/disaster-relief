@@ -1,9 +1,5 @@
 /*
- * Veer Desai
- * CSE 123
- * P2: Disaster Relief
  * 2/25/25
- * TA: Isayiah Lim
  */
 import java.util.*;
 
